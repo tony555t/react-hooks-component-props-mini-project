@@ -12,4 +12,4 @@ const About = ({ image , about }) => {
      );
 }
  
-export default About;
+export default About;about
